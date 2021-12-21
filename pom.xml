@@ -6,7 +6,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.microsoft.dynamicsfp.androidsdk</groupId>
    <artifactId>dfpf</artifactId>
-   <version>1.8.3</version>
+   <version>1.8.4</version>
    <dependencies>
       <dependency>
          <groupId>com.google.android.gms</groupId>
